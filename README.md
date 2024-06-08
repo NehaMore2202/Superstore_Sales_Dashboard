@@ -8,11 +8,13 @@ This Power BI dashboard provides a comprehensive visual analysis of sales data f
 **Power BI:** Utilized for creating interactive dashboards and visualizations.
 **Power Query:** Employed for data extraction, transformation, and cleaning.
 **DAX (Data Analysis Expressions):** Used for creating calculated columns, custom measures, and advanced data manipulation within Power BI.
+
 **Key Features:**
-**Financial Performance Tracking: **Includes metrics like monthly sales, profits, and comparison by year.
-**Customer Insights: **Analysis of customer segments and purchasing behaviors.
+**Financial Performance Tracking:** Includes metrics like monthly sales, profits, and comparison by year.
+**Customer Insights:** Analysis of customer segments and purchasing behaviors.
 **Sales Forecasting**: Utilizes time series analysis to predict future sales trends.
 **Interactive Visualizations:** Allows users to interactively explore data through filters and drill-down capabilities.
+
 **Project Workflow:**
 **Step 1:** Data Extraction
 Data is sourced from various systems and includes historical and current sales, customer demographics, and product details.
@@ -23,13 +25,14 @@ Using Power Query, data is cleansed and prepared for analysis. This includes rem
 **Step 3:** Data Modeling
 Structured into a coherent model with relationships and normalized tables to facilitate efficient analysis.
 
-**Step 4: **DAX & Power Query Formulas
+**Step 4:** DAX & Power Query Formulas
 Advanced calculations and measures are implemented to enrich the data model, providing deeper insights and enhanced analytical capabilities.
 
-**Step 5: **Dashboard Design and Implementation
+**Step 5:** Dashboard Design and Implementation
 The data model is brought to life through a series of interactive dashboards and reports that provide actionable insights and facilitate data-driven decision-making.
 
 **Detailed Dashboard Features:**
+
 **Sales Performance Metrics:** Tracks metrics such as total sales, profit margins, and year-over-year growth.
 **Dynamic Time Series Analysis:** Offers sales forecasts and trend analysis to predict future performance.
 **Segmentation and Demographics Analysis:** Provides insights into customer behaviors and preferences, enhancing targeted marketing efforts.
